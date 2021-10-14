@@ -1,0 +1,20 @@
+p {
+  color: red;
+  font-size: 40px;
+}
+
+#hay {
+  color: brown;
+}
+
+.logo {
+    background-image: url(../img/750px-Black_flag.svg.png);
+    color: white;
+    background-repeat: repeat;
+}
+
+pre {
+  color: rgb(rgb(151, 45, 45), rgb(10, 245, 10), rgb(47, 47, 63));
+  background-color: rgb(10, 245, 10);
+  ba
+}
